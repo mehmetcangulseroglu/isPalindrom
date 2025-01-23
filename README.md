@@ -1,1 +1,1 @@
-Program dahilinde belirlenen sayının palindrom forma uygun olup olmadığını veren program.
+A program that determines whether the number specified within the program complies with the palindrome form.
